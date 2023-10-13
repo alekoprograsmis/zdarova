@@ -1,0 +1,10 @@
+h1{
+    font-size: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+body{
+background-image:url(https://th.bing.com/th/id/R.04d26daf397bd912f958423ca939b828?rik=cJi6xNuf7teVrg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fAwesome-Sunset-Beaches-Backgrounds.jpg&ehk=QyLtFSgSQ6UB9oVUM%2bML72Uhj%2fLvvi%2blldGWRMe%2fHl8%3d&risl=&pid=ImgRaw&r=0);
+}

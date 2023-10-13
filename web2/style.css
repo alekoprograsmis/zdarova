@@ -1,0 +1,36 @@
+img{
+    margin-left: 780px;
+    width: 200px;
+    height: 400px;
+}
+
+body{
+    background-image:url(https://th.bing.com/th/id/R.aa2bb45420fc2edcc0f8677c61245741?rik=PJiu9EeiuYf36w&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fZdcGhAR.jpg&ehk=jfYFd8n4QuOjuLkOwbP5%2fEvqjWDblowbMZ6AWQs8DCU%3d&risl=&pid=ImgRaw&r=0);
+    height: 1500px;
+
+}
+h1{
+    font-size: 30px;
+    text-decoration:none;
+    font-family:monospace;
+    margin-left: 800px;
+}
+
+button{
+    width: 200px;
+    height:70px;
+    background-color:red;
+    font-size: 30px;
+    border: 1px solid red;
+    border-radius:10px;
+    margin-left: 780px;
+    margin-top:140px;
+    transition:1.5s;
+}
+button:hover{
+    background-color:greenyellow;
+}
+
+
+
+
